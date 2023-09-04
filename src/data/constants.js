@@ -1,14 +1,14 @@
 export const Bio = {
-  name: "Rishav Chanda",
+  name: "Chinmay Giri",
   roles: [
+    "Data Science Enthusiast",
     "Full Stack Developer",
-    "Android Developer",
     "UI/UX Designer",
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/rishavchanda",
+    "Data science enthusiast with a passion for user experience and teaching math. I love using data to solve problems and make a positive impact on the world.",
+  github: "https://github.com/chinmaygiri",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
