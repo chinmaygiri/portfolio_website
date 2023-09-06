@@ -10,7 +10,7 @@ export const Bio = {
     "Data science enthusiast with a passion for user experience and teaching math. I love using data to solve problems and make a positive impact on the world.",
   github: "https://github.com/chinmaygiri",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "#",
   linkedin: "https://www.linkedin.com/in/chinmay-giri-91232791//",
   twitter: "https://twitter.com/HiChinmayGiri",
   insta: "#",
@@ -290,8 +290,8 @@ export const projects = [
     webapp: "https://podstream.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        name: "Chinmay Giri",
+        img: "https://avatars.githubusercontent.com/u/96367554?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
         github: "https://github.com/rishavchanda/",
       },
@@ -337,8 +337,8 @@ export const projects = [
     webapp: "https://brain-tumor.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        name: "Chinmay Giri",
+        img: "https://avatars.githubusercontent.com/u/96367554?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
         github: "https://github.com/rishavchanda/",
       },
